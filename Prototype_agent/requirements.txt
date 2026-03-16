@@ -1,0 +1,6 @@
+pydantic
+pydantic-ai
+pydantic-ai-slim[groq]
+dotenv
+uvicorn
+fastapi
